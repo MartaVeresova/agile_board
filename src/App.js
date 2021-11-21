@@ -1,12 +1,16 @@
 import {observer} from "mobx-react-lite";
 import {Dashboard} from "./components/dashboard";
+import {Header} from "./components/header";
 
 function App() {
 
     return (
-        <main>
-           <Dashboard />
-        </main>
+        <>
+            <Header/>
+            <main>
+                <Dashboard/>
+            </main>
+        </>
     );
 }
 
