@@ -135,6 +135,12 @@
           "title": "asd",
           "description": "asd",
           "assignee": "1"
+        },
+        {
+          "id": "f995914d-7b3c-4f6f-88d1-55b4b50ce6f5",
+          "title": "Task 455",
+          "description": "21212",
+          "assignee": "6"
         }
       ],
       "id": "BACKLOG"
@@ -148,10 +154,9 @@
           "assignee": "1"
         },
         {
-          "id": "1",
-          "title": "Task some task",
-          "description": "Task some task description",
-          "assignee": "2"
+          "id": "388e276d-35ca-402b-a3d7-c7b8d2ce93e5",
+          "title": "new Task",
+          "description": "some description"
         }
       ],
       "id": "OPEN"
@@ -165,10 +170,10 @@
           "assignee": "1"
         },
         {
-          "id": "22",
-          "title": "Task 2",
-          "description": "Task some task description 3",
-          "assignee": "1"
+          "id": "1",
+          "title": "Task some task",
+          "description": "Task some task description",
+          "assignee": "2"
         }
       ],
       "id": "IN_PROGRESS"
@@ -180,18 +185,24 @@
           "title": "Task 1",
           "description": "Task 1 description",
           "assignee": "3"
+        },
+        {
+          "id": "22",
+          "title": "Task 2",
+          "description": "Task some task description 3",
+          "assignee": "1"
+        },
+        {
+          "id": "3",
+          "title": "Task 3",
+          "description": "Task some task description 444",
+          "assignee": "1"
         }
       ],
       "id": "DONE"
     },
     {
       "tasks": [
-        {
-          "id": "3",
-          "title": "Task 3",
-          "description": "Task some task description 444",
-          "assignee": "1"
-        },
         {
           "id": "5f905127-06c2-439a-b533-5f3b8495d9ad",
           "title": "User",
@@ -206,16 +217,6 @@
     {
       "tasks": [
         {
-          "id": "3",
-          "title": "Task 3",
-          "description": "Task some task description 444"
-        }
-      ],
-      "id": "BACKLOG"
-    },
-    {
-      "tasks": [
-        {
           "id": "1",
           "title": "Task some task",
           "description": "Task some task description"
@@ -226,7 +227,7 @@
           "description": "Task some task description 3"
         }
       ],
-      "id": "OPEN"
+      "id": "BACKLOG"
     },
     {
       "tasks": [
@@ -234,6 +235,22 @@
           "id": "4",
           "title": "Task 4",
           "description": "5555"
+        },
+        {
+          "id": "ce01fa52-37fc-48ee-830a-64eed726a604",
+          "title": "newTask2",
+          "description": "some description",
+          "assignee": "2"
+        }
+      ],
+      "id": "OPEN"
+    },
+    {
+      "tasks": [
+        {
+          "id": "3",
+          "title": "Task 3",
+          "description": "Task some task description 444"
         }
       ],
       "id": "IN_PROGRESS"

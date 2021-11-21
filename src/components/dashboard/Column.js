@@ -1,6 +1,6 @@
 import {observer} from "mobx-react-lite";
 import {Draggable} from "react-beautiful-dnd";
-import {Card} from "@material-ui/core";
+import Card from "@material-ui/core/Card";
 import {Task} from "./Task";
 
 const getItemStyle = (draggableStyle) => {
