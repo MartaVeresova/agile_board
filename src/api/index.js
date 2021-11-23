@@ -15,7 +15,6 @@ class ApiCall {
                 'Content-type': 'application/json'
             }
         })
-
         return await request.json()
     }
 
@@ -27,7 +26,6 @@ class ApiCall {
         return await this.perform(path, payload, {
             method: 'POST'
         })
-
     }
 
     async put(path, payload) {

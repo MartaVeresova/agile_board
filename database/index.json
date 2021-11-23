@@ -148,10 +148,10 @@
     {
       "tasks": [
         {
-          "id": "4",
-          "title": "Task 4",
-          "description": "5555",
-          "assignee": "1"
+          "id": "1",
+          "title": "Task some task",
+          "description": "Task some task description",
+          "assignee": "2"
         },
         {
           "id": "388e276d-35ca-402b-a3d7-c7b8d2ce93e5",
@@ -170,10 +170,10 @@
           "assignee": "1"
         },
         {
-          "id": "1",
-          "title": "Task some task",
-          "description": "Task some task description",
-          "assignee": "2"
+          "id": "11",
+          "title": "Task 1",
+          "description": "Task 1 description",
+          "assignee": "3"
         }
       ],
       "id": "IN_PROGRESS"
@@ -181,21 +181,15 @@
     {
       "tasks": [
         {
-          "id": "11",
-          "title": "Task 1",
-          "description": "Task 1 description",
-          "assignee": "3"
-        },
-        {
           "id": "22",
           "title": "Task 2",
           "description": "Task some task description 3",
           "assignee": "1"
         },
         {
-          "id": "3",
-          "title": "Task 3",
-          "description": "Task some task description 444",
+          "id": "4",
+          "title": "Task 4",
+          "description": "5555",
           "assignee": "1"
         }
       ],
@@ -208,6 +202,12 @@
           "title": "User",
           "description": "asd",
           "assignee": "9"
+        },
+        {
+          "id": "3",
+          "title": "Task 3",
+          "description": "Task some task description 444",
+          "assignee": "1"
         }
       ],
       "id": "CLOSED"
