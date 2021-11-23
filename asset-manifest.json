@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/agile_board/static/js/main.4a199c53.chunk.js",
-    "main.js.map": "/agile_board/static/js/main.4a199c53.chunk.js.map",
+    "main.js": "/agile_board/static/js/main.43fa8ec2.chunk.js",
+    "main.js.map": "/agile_board/static/js/main.43fa8ec2.chunk.js.map",
     "runtime-main.js": "/agile_board/static/js/runtime-main.76e1e1cf.js",
     "runtime-main.js.map": "/agile_board/static/js/runtime-main.76e1e1cf.js.map",
-    "static/js/2.1fb68835.chunk.js": "/agile_board/static/js/2.1fb68835.chunk.js",
-    "static/js/2.1fb68835.chunk.js.map": "/agile_board/static/js/2.1fb68835.chunk.js.map",
+    "static/js/2.65e06093.chunk.js": "/agile_board/static/js/2.65e06093.chunk.js",
+    "static/js/2.65e06093.chunk.js.map": "/agile_board/static/js/2.65e06093.chunk.js.map",
     "index.html": "/agile_board/index.html",
-    "static/js/2.1fb68835.chunk.js.LICENSE.txt": "/agile_board/static/js/2.1fb68835.chunk.js.LICENSE.txt"
+    "static/js/2.65e06093.chunk.js.LICENSE.txt": "/agile_board/static/js/2.65e06093.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.76e1e1cf.js",
-    "static/js/2.1fb68835.chunk.js",
-    "static/js/main.4a199c53.chunk.js"
+    "static/js/2.65e06093.chunk.js",
+    "static/js/main.43fa8ec2.chunk.js"
   ]
 }
